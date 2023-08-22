@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ExercícioFixacaoExceptions.exe
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ExercícioFixacaoExceptions.deps.json
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ExercícioFixacaoExceptions.runtimeconfig.json
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ExercícioFixacaoExceptions.runtimeconfig.dev.json
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ExercícioFixacaoExceptions.dll
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ref\ExercícioFixacaoExceptions.dll
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\bin\Debug\net5.0\ExercícioFixacaoExceptions.pdb
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.AssemblyInfo.cs
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.dll
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ref\ExercícioFixacaoExceptions.dll
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.pdb
+C:\Users\crist\source\repos\ExercícioFixacaoExceptions\ExercícioFixacaoExceptions\obj\Debug\net5.0\ExercícioFixacaoExceptions.genruntimeconfig.cache
